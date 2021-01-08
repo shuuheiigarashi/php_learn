@@ -8,3 +8,9 @@ echo $test;
 exit;
 echo '<br>';
 echo $text_2;
+
+if ($test == 'igarashi') {
+    echo $test . 'shuuheiです';
+} else {
+    echo  $test . 'ではありません';
+}
