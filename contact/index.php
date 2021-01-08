@@ -14,3 +14,7 @@ if ($test == 'igarashi') {
 } else {
     echo  $test . 'ではありません';
 }
+
+for ($i = 1; $i <= 10; $i++) {
+    echo $i;
+}
